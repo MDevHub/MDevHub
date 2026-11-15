@@ -50,7 +50,7 @@ stack:
 ### `~/telemetry`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MDevHub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" height="165" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MDevHub&theme=github_dark" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MDevHub&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="165" alt="GitHub Streak" />
 </div>
 
