@@ -19,7 +19,7 @@
 ```yaml
 engineer:
   handle: "@MDevHub"
-  role: "Software Engineer // Full-Stack & Cloud"
+  role: "Software Engineer"
   focus: "Zero-latency UI, serverless infrastructure, and autonomous AI agents."
 
 stack:
