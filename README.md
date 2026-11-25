@@ -23,7 +23,7 @@ engineer:
   focus: "Zero-latency UI, serverless infrastructure, and autonomous AI agents."
 
 stack:
-  frontend: ["Next.js", "React", "TypeScript", "TanStack Router", "Tailwind CSS"]
+  frontend: ["Next.js", "React", "Vue.js", "Angular", "TypeScript", "JavaScript" "TanStack Router", "Tailwind CSS"]
   backend:  ["Convex", "Node.js", "WebSockets", "Real-Time State"]
   cloud:    ["AWS (Lambda, S3, DynamoDB, CloudFront)", "SST", "Docker"]
   ai:       ["Vercel AI SDK", "AI Chatbots", "LLM Workflows"]
